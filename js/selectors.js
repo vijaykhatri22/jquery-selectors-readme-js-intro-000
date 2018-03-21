@@ -12,4 +12,4 @@ function dicSelector(){
 }
 function firstListItem(){
   return $('ul li:firstChild');
-} 
+}
