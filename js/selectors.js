@@ -7,9 +7,9 @@ return  $('img:last');
 function ninjaBabySelector(){
   return $('#baby-ninja');
 }
-function dicSelector(){
+function divSelector(){
   return $('div');
 }
 function firstListItem(){
-  return $('ul li:firstChild');
+  return $('ul li:first-child');
 }
